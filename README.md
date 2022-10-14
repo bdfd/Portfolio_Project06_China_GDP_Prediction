@@ -12,6 +12,8 @@
 
 **Tools:** Jupyter / JupyterLab, GitHub
 
+**Algorithm Category:** Regression
+
 **Purpose:** Data Cleaning, Apply Algorithm
 
 **Algorithm:** Logarithmic Regression, Sigmodial/Logistic Regression
